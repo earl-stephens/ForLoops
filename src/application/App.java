@@ -18,5 +18,10 @@ public class App {
 			System.out.println("Hello");
 		}
 		*/
+		
+		//Coding challenge: create a for loop counting down from 7 to 3
+		for(int j = 7; j >= 3; j--) {
+			System.out.printf("Counter value is %d\n", j);
+		}
 	}
 }
